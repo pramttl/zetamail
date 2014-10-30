@@ -118,5 +118,5 @@ http://<server_ip>/sendmultiemails
 
 #### Why is this an unsolved problem? (Links)
 
-https://news.ycombinator.com/item?id=203242
-https://signalvnoise.com/posts/3096-behind-the-scenes-giving-away-the-secrets-of-email-delivery
+* https://news.ycombinator.com/item?id=203242
+* https://signalvnoise.com/posts/3096-behind-the-scenes-giving-away-the-secrets-of-email-delivery
